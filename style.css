@@ -132,3 +132,38 @@ nav h1{
     font-size: 20px;
     color: #000000;
 }
+
+/* *User-Section Style */
+
+.Users-section-tittel{
+    text-align: center;
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    padding-top: 137px;
+    padding-bottom: 50px;
+}
+.Users-card{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1140px;
+}
+.card-tittel{
+    padding-top: 24px
+}
+.card-discription{
+    padding-top: 8px;
+    padding-bottom: 24px;
+}
+.card-1, .card-2, .card-3{
+    background-color: #F2EDED;
+    border-radius: 10px;
+    padding: 24px;
+}
+.avatar{
+    display: flex;
+    gap: 12px;
+    padding-bottom: 24px;
+}
