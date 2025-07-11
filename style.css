@@ -7,6 +7,8 @@ header{
     width: 100%;
     height: auto;
     background-image: url(./Assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* * nav bar style */
