@@ -167,3 +167,36 @@ nav h1{
     gap: 12px;
     padding-bottom: 24px;
 }
+
+/* *Focus section style */
+
+.Focus-section{
+    background-color: #FFFFFF;
+    margin-top: 130px;
+}
+.focus{
+    text-align: center;
+}
+.focus-tittel{
+    font-weight: bold;
+    font-size: 50px;
+    color: #000000;
+    padding-top: 71px;
+    padding-bottom: 20px;
+}
+.focus-discription{
+    padding-bottom: 20px;
+}
+.focus a button{
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.focus-img{
+    text-align: center;
+    padding-top: 20px;
+}
+.focus-img img{
+    border: 5px solid white;
+    border-radius: 48px;
+}
