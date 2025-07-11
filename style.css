@@ -257,3 +257,48 @@ input::placeholder{
 .touch-section input[type="submit"]{
     width: 100%;
 }
+
+/* *footer section style */
+
+.Footer-Section{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 720px;
+    margin: 104px auto;
+}
+/* .footer-contain{
+    border: 2px solid rgb(10, 196, 63);
+    width: 1140px;
+} */
+.footer-tittel h1{
+    font-weight: bold;
+    font-size: 50px;
+    color: #8987A1;
+}
+.footer-discription{
+    color: #8987A1;
+    padding-bottom: 20px;
+    padding-top: 8px;
+}
+.footer-links ul li{
+    display: inline-block;
+    padding-left: 30px;
+    font-size: 20px;
+}
+.footer-links ul li a{
+    color: #252432;
+}
+ul li a{
+    text-decoration: none;
+}
+.copyright{
+    text-align: center;
+    margin-top: 50px; 
+    padding: 20px;
+    background-color: #222;
+    color: white;
+    font-size: 14px;
+}
+
+/* *END */
