@@ -97,3 +97,38 @@ nav h1{
     border: 2px solid white;
     border-radius: 48px;
 }
+
+/* *Productive Users Style */
+
+.Productive-Users{
+    background-color: #d9d9f7;
+    width: 1140px;
+    margin: 0 auto;
+    height: 306px;
+    border-radius: 10px;
+}
+.user-tittel{
+    text-align: center;
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+    padding-top: 50px;
+}
+.users{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 120px;
+    padding-right: 130px;
+}
+.active-user h1, .user-focus h1, .user-rate h1{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+}
+.active-user p, .user-focus p, .user-focus p{
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+}
