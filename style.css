@@ -65,3 +65,35 @@ nav h1{
 .banner-container a button{
     margin-top: 30px;
 }
+
+
+
+
+/* *Action style */
+
+.action{
+    display: flex;
+    gap: 220px;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    width: 1140px;
+    margin: 116px auto;
+    background-color: #FFFFFF;
+}
+.action-tittel{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    margin-bottom: 23px;
+}
+.action-discription{
+    font-weight: 400;
+    font-size: 24px;
+    color: #252432;
+    margin-bottom: 23px;
+}
+.action img{
+    border: 2px solid white;
+    border-radius: 48px;
+}
